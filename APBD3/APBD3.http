@@ -1,0 +1,6 @@
+@APBD3_HostAddress = http://localhost:5023
+
+GET {{APBD3_HostAddress}}/animals/
+Accept: application/json
+
+###
